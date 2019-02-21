@@ -1,0 +1,31 @@
+
+body{
+	font-size: 16px;
+}
+.container{
+	width: 200px;
+	border: 1px solid #ccc;
+}
+.a{
+	width: 100px;
+	color: brown;
+}
+.b{
+	width: 100px;
+	color: blue;
+}
+.c{
+	width: 100px;
+	color: pink;
+	font-weight: bold;
+}
+.d{
+	width: 100px;
+	color: brown;
+	font-weight: bold;
+}
+.e{
+	width: 100px;
+	color: blue;
+	font-weight: bold;
+}
