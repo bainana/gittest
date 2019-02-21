@@ -1,0 +1,18 @@
+.container{
+	width: 500px;
+	height: 500px;
+	margin: 50px auto;
+	overflow: hidden;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+.sidebar{
+	float: left;
+	width: 200px;
+}
+.main{
+	float: right;
+	width: 300px;
+	height: 500px;
+	background: #ccc;
+}
