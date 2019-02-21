@@ -14,5 +14,12 @@
 	float: right;
 	width: 300px;
 	height: 500px;
-	background: #ccc;
+}
+.list{
+	width: 80%;
+}
+.list li{
+	height: 30px;
+	line-height: 30px;
+	border: 1px dotted #ccc;
 }
